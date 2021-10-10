@@ -60,12 +60,13 @@
 
 ## Things you can contribute to
 
-- This repository contains folders of all the Web Development languages and topic wise codes to each If you find something     new just send a pull request we will surely look into it.
+- This repository contains folders of all the Web Development languages and topic wise codes to each If you find something 
+new just send a pull request we will surely look into it.
 - You can **update the existing solution** with a better one.
 - Participants can even **add new content and codes** and solutions of their interest.
 - **Solve issues** raised by other people or yourself.
 - **Well-documented** source code with detailed explanations provides a valuable resource for educators and students alike.
-- **You can also Update the projects** project codes can be updated and modified if you see a scope of improvemnet in it
+- **You can also Update the projects** project codes can be updated and modified if you see a scope of improvemnet in it.
 
 </div>
 
