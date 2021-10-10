@@ -3,7 +3,7 @@
 
 ### Hi there, its Mimo 👋
 
-## I'm a Student, Currently Doing Btech in C.S.E
+## I'm a Student, Currently Pursuing Btech in C.S.E
 
 - 🔭 Its My Web Development Road Map Repo
 - 🌱 I’m currently learning Web Development🤣
