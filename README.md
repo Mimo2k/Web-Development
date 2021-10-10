@@ -6,8 +6,8 @@
 ## I'm a Student, Currently Doing Btech in C.S.E
 
 - 🔭 Its My Web Development Road Map Repo
-- 🌱 I’m currently learning Html, CSS🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and to learn web Development
+- 🌱 I’m currently learning Web Development🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects and to learn web Development
 - ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
 
 <div align="center">
@@ -20,6 +20,7 @@
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
 
 </div>
+
 
 
 
