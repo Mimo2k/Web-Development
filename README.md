@@ -1,7 +1,10 @@
 
 <h1>Web Development</h1>
 
-<div align="left">
+<img width="1188" alt="DSA banner" src="https://github.com/Mimo2k/Web-Development/blob/f13ffc74d735646c168d58ff51cddfff0a3c2653/1.%20Html/1.%20Basic%20Tags/Resources/Banner%201.png">
+<br />
+<br />
+<div align="center">
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://sloc.xyz/github/Mimo2k/Web-Development" alt="LOC"/></a>
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mimo2k.Web-Development" alt="visitor count"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/stargazers"><img src="https://img.shields.io/github/stars/Mimo2k/Web-Development" alt="Stars Badge"/></a>
@@ -9,14 +12,11 @@
 <a href="https://github.com/Mimo2k/Web-Development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mimo2k/Web-Development?color=2b9348"></a>
 <br />
 <br />
-<b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
-
 </div>
 
+<b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
 
 
-
-<br />
 
 <div align="left">
 
