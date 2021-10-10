@@ -4,7 +4,7 @@
 
 - 🔭 Its My Web Development Road Map Repo
 - 🌱 I’m currently learning Html, CSS🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and to learn web Development
+- 🥅 2021 Goals: Contribute more to Open Source projects and to learn web Development
 - ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
 
 ### Connect with me:
