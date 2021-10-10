@@ -88,6 +88,9 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 	</tr>
 </table>
 
+[![Stargazers over time](https://starchart.cc/Mimo2k/Web-Development.svg)](https://starchart.cc/Mimo2k/Web-Development)
+
+
 ### Connect with me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydeeppatra18101999@gmail.com)](mailto:joydeeppatra18101999@gmail.com) 
@@ -103,4 +106,6 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 <br />
 
 ---
+
+
 
