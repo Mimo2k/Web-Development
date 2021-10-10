@@ -1,5 +1,5 @@
-<div align="center">
-<h1>Data Structures and Algorithms</h1>
+
+<h1>Web Development</h1>
 
 ### Hi there, its Mimo 👋
 
@@ -10,6 +10,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and to learn web Development
 - ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
 
+<div align="center">
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://sloc.xyz/github/Mimo2k/Web-Development" alt="LOC"/></a>
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mimo2k.Web-Development" alt="visitor count"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/stargazers"><img src="https://img.shields.io/github/stars/Mimo2k/Web-Development" alt="Stars Badge"/></a>
