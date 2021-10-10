@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and to learn web Development
 - ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://sloc.xyz/github/Mimo2k/Web-Development" alt="LOC"/></a>
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mimo2k.Web-Development" alt="visitor count"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/stargazers"><img src="https://img.shields.io/github/stars/Mimo2k/Web-Development" alt="Stars Badge"/></a>
@@ -25,7 +25,8 @@
 
 
 <br />
-<div align="center">
+
+<div align="left">
 
 ## Languages and Tools:
 
@@ -41,9 +42,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</div> 
-<hr>
 
+</div>
+	
+
+<br/>
+<br/>
+
+<div align="left">
+	
 ## Rules to contribute to this repository
 
 - You can write solutions in any specified languages.
@@ -60,6 +67,7 @@
 - **Well-documented** source code with detailed explanations provides a valuable resource for educators and students alike.
 - **You can also Update the projects** project codes can be updated and modified if you see a scope of improvemnet in it
 
+</div>
 
 <br />
 
