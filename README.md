@@ -1,22 +1,14 @@
 
 <h1>Web Development</h1>
 
-### Hi there, its Mimo 👋
-
-## I'm a Student, Currently Pursuing Btech in C.S.E
-
-- 🔭 Its My Web Development Road Map Repo
-- 🌱 I’m currently learning Web Development🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and to learn web Development
-- ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
-
 <div align="left">
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://sloc.xyz/github/Mimo2k/Web-Development" alt="LOC"/></a>
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mimo2k.Web-Development" alt="visitor count"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/stargazers"><img src="https://img.shields.io/github/stars/Mimo2k/Web-Development" alt="Stars Badge"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/network/members"><img src="https://img.shields.io/github/forks/Mimo2k/Web-Development" alt="Forks Badge"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mimo2k/Web-Development?color=2b9348"></a>
-
+<br />
+<br />
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
 
 </div>
@@ -104,7 +96,6 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 <hr>
 
 ## Happy Coding 👨‍💻
-
 
 
 
