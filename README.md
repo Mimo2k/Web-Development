@@ -3,7 +3,7 @@
 ## I'm a Student, Currently Doing Btech in C.S.E
 
 - 🔭 Its My Web Development Road Map Repo
-- 🌱 I’m currently learning Html, CSS🤣
+- 🌱 I’m currently learning Web Development🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and to learn web Development
 - ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
 
