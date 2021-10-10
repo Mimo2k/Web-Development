@@ -1,30 +1,26 @@
-<div align="center">
-<h1>Data Structures and Algorithms</h1>
 
-### Hi there, its Mimo 👋
+<h1>Web Development</h1>
 
-## I'm a Student, Currently Doing Btech in C.S.E
-
-- 🔭 Its My Web Development Road Map Repo
-- 🌱 I’m currently learning Html, CSS🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and to learn web Development
-- ⚡ Fun fact: I also love to hava a chit-chat on investing and trading
-
+<div align="left">
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://sloc.xyz/github/Mimo2k/Web-Development" alt="LOC"/></a>
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mimo2k.Web-Development" alt="visitor count"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/stargazers"><img src="https://img.shields.io/github/stars/Mimo2k/Web-Development" alt="Stars Badge"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/network/members"><img src="https://img.shields.io/github/forks/Mimo2k/Web-Development" alt="Forks Badge"/></a>
 <a href="https://github.com/Mimo2k/Web-Development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mimo2k/Web-Development?color=2b9348"></a>
-
+<br />
+<br />
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
 
 </div>
 
 
 
+
 <br />
 
-### Languages and Tools:
+<div align="left">
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,8 +35,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<hr>
+</div>
+	
 
+<br/>
+<br/>
+
+<div align="left">
+	
 ## Rules to contribute to this repository
 
 - You can write solutions in any specified languages.
@@ -50,13 +52,15 @@
 
 ## Things you can contribute to
 
-- This repository contains folders of all the Web Development languages and topic wise codes to each If you find something     new just send a pull request we will surely look into it.
+- This repository contains folders of all the Web Development languages and topic wise codes to each If you find something 
+new just send a pull request we will surely look into it.
 - You can **update the existing solution** with a better one.
 - Participants can even **add new content and codes** and solutions of their interest.
 - **Solve issues** raised by other people or yourself.
 - **Well-documented** source code with detailed explanations provides a valuable resource for educators and students alike.
-- **You can also Update the projects** project codes can be updated and modified if you see a scope of improvemnet in it
+- **You can also Update the projects** project codes can be updated and modified if you see a scope of improvemnet in it.
 
+</div>
 
 <br />
 
@@ -77,6 +81,9 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 	</tr>
 </table>
 
+[![Stargazers over time](https://starchart.cc/Mimo2k/Web-Development.svg)](https://starchart.cc/Mimo2k/Web-Development)
+
+
 ### Connect with me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joydeeppatra18101999@gmail.com)](mailto:joydeeppatra18101999@gmail.com) 
@@ -89,7 +96,7 @@ Thanks to these **Wonderful People** 👨🏻‍💻 <br>
 <hr>
 
 ## Happy Coding 👨‍💻
-<br />
 
----
+
+
 
