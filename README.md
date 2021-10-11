@@ -12,11 +12,11 @@
 <a href="https://github.com/Mimo2k/Web-Development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Mimo2k/Web-Development?color=2b9348"></a>
 <br />
 <br />
-</div>
+
 
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
 
-
+</div>
 
 <div align="left">
 
