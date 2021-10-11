@@ -1,8 +1,8 @@
-
+<div align="center">
 <h1>Web Development</h1>
 
-<img width="1188" alt="DSA banner" src="https://github.com/Mimo2k/Web-Development/blob/f13ffc74d735646c168d58ff51cddfff0a3c2653/1.%20Html/1.%20Basic%20Tags/Resources/Banner%201.png">
-<br />
+<img width="1200" alt="DSA banner" src="https://github.com/Mimo2k/Web-Development/blob/f13ffc74d735646c168d58ff51cddfff0a3c2653/1.%20Html/1.%20Basic%20Tags/Resources/Banner%201.png">
+</div>
 <br />
 <div align="center">
 <a href="https://github.com/Mimo2k/Web-Development"><img src="https://sloc.xyz/github/Mimo2k/Web-Development" alt="LOC"/></a>
